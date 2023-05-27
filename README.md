@@ -35,10 +35,12 @@ Welcome to Project Node.js User Management This project aims to provide a platfo
 
 1.  Clone the repository:
 
-    ```bash
-    git clone https://github.com/satyaveer1994/istreamo-assignment.git
+    
+        git clone https://github.com/satyaveer1994/istreamo-assignment.git
 
-    ```
+. live project link: 
+
+     https://istreamo-assignment-1.onrender.com
 
 2.  Install the dependencies:
 
