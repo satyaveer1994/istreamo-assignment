@@ -38,9 +38,7 @@ Welcome to Project Node.js User Management This project aims to provide a platfo
     
         git clone https://github.com/satyaveer1994/istreamo-assignment.git
 
-. live project link: 
 
-     https://istreamo-assignment-1.onrender.com
 
 2.  Install the dependencies:
 
@@ -63,6 +61,8 @@ Welcome to Project Node.js User Management This project aims to provide a platfo
     npm nodemon src/index.js
 
 6.Access the application at http://localhost:3000.
+
+7. A link to the hosted API: https://istreamo-assignment-1.onrender.com
 
 ## Usage
 
